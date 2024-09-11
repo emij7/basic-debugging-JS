@@ -16,4 +16,4 @@ function getRandomIndex() {
   return randomIndex;
 }
 
-const body = document.queryselector("body");
+const body = document.querySelector("body");
